@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://otelier-frontend-by-afzal-vepari-hmoal1toj.vercel.app/" target="_blank">
+  <a href="https://otelier-frontend-by-afzal-vepari-hjpcxf7a5.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-View_Project-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </p> 
