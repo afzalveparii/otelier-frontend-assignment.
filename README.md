@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://otelier-frontend-by-afzal-vepari-hmoal1toj.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-View_Project-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p> 
+
 ### 🚀 Overview
 Otelier is a high-performance, full-stack hotel search application. It integrates the **Amadeus Hotel Offers API** via a secure serverless proxy, implements real-time authentication with **Supabase**, and provides interactive data visualization using **Chart.js**.
 
