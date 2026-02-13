@@ -103,6 +103,8 @@ npm install
 2️⃣ Setup environment variables
 Create a .env file:
 ```ini
+VITE_SUPABASE_URL=your_supabse_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 AMADEUS_CLIENT_ID=your_client_id
 AMADEUS_CLIENT_SECRET=your_client_secret
 ```
